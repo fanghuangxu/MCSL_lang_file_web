@@ -1,0 +1,14 @@
+__main__.title=MCSL我的世界開服器
+__main__.servers_meun.text1=新建伺服器
+__main__.servers_meun.text2=伺服器列表
+__main__.meun_bar.text1=伺服器
+__main__.welcome_text=歡迎使用MCSL我的世界開服器！
+AddServer.title=伺服器新建向導
+AddServer.version_comb.setTitle=請選擇伺服器版本
+AddServer.Button.text=下一步
+ServerList.title=伺服器列表
+ServerList.Label.text=伺服器列表
+ServerList.info.title=提示
+ServerList.info.text=請閱讀Minecraft的EULA,\n並同意其條款後，點擊確定按鈕啟動伺服器。
+ServerList.Button.text=啟動伺服器
+lang.type=中文繁体
