@@ -16,3 +16,4 @@ ServerList.Label.text=服务器列表
 ServerList.info.title=提示
 ServerList.info.text=请阅读Minecraft的EULA,\n并同意其条款后，点击确定按钮启动服务器。
 ServerList.Button.text=启动服务器
+lang.type=中文简体
