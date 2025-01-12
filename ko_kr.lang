@@ -17,3 +17,5 @@ ServerList.info.title=알림
 ServerList.info.text=Minecraft의 EULA를 읽고,\n동의한 후 확인 버튼을 클릭하여 서버를 시작하세요.
 ServerList.Button.text=서버 시작
 lang.type=한국어
+__main__.meun_bar.text2=언어
+__main__.language_meun.text1=언어 변경
