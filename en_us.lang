@@ -17,3 +17,5 @@ ServerList.info.title=Tip
 ServerList.info.text=Please read Minecraft's EULA,\nand agree to its terms before clicking the OK button to start the server.
 ServerList.Button.text=Start Server
 lang.type=English
+__main__.meun_bar.text2=Language
+__main__.language_meun.text1=Switch Language
