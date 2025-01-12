@@ -12,3 +12,6 @@ ServerList.info.title=提示
 ServerList.info.text=請閱讀Minecraft的EULA,\n並同意其條款後，點擊確定按鈕啟動伺服器。
 ServerList.Button.text=啟動伺服器
 lang.type=中文繁体
+__main__.meun_bar.text2=語言
+__main__.language_meun.text1=切換語言
+
